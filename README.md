@@ -1,35 +1,13 @@
 # Samay Shetty
-## Glowlogics Project
+## Glowlogics Project 4
 
 ---
 
 # Disease Prediction System using Machine Learning
 ### Healthcare Analytics
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
-![Status](https://img.shields.io/badge/Status-Completed-green?style=flat-square)
-
 ---
 
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Objectives](#objectives)
-3. [Problem Statement](#problem-statement)
-4. [Dataset](#dataset)
-5. [Technologies Used](#technologies-used)
-6. [Installation](#installation)
-7. [How It Works](#how-it-works)
-8. [Machine Learning Models](#machine-learning-models)
-9. [Results](#results)
-10. [Disease Prediction](#disease-prediction)
-11. [Key Insights](#key-insights)
-12. [Project Structure](#project-structure)
-13. [Conclusion](#conclusion)
-
----
 
 ## Project Overview
 
@@ -285,10 +263,6 @@ disease-prediction/
 ├── README.md                      Project documentation
 └── requirements.txt               Python dependencies
 ```
-
----
-
-## Conclusion
 
 This Disease Prediction System demonstrates how machine learning can meaningfully support healthcare diagnostics. By combining patient symptoms with clinical parameters and engineered risk features, the Random Forest model achieves strong multi-class prediction accuracy across 8 distinct diseases.
 
