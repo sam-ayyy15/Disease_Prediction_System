@@ -264,6 +264,28 @@ disease-prediction/
 └── requirements.txt               Python dependencies
 ```
 
+# 📊 Project Outputs
+
+
+## 🔍 Visualizations
+
+- 📈 [Age Analysis](outputs/age_analysis.png)
+- 🏥 [Clinical Metrics](outputs/clinical_metrics.png)
+- 🔢 [Confusion Matrices](outputs/confusion_matrices.png)
+- 🔗 [Correlation Heatmap](outputs/correlation.png)
+- 🔄 [Cross Validation](outputs/cross_validation.png)
+- 🦠 [Disease Distribution](outputs/disease_distribution.png)
+- ⭐ [Feature Importance](outputs/feature_importance.png)
+- 📊 [Final Dashboard](outputs/final_dashboard.png)
+- 🚻 [Gender Risk Analysis](outputs/gender_risk.png)
+
+## ⚙️ Model Evaluation
+
+- ❌ [Missing Values](outputs/missing_values.png)
+- 📊 [Model Comparison](outputs/model_comparison.png)
+- 🔮 [Prediction Probabilities](outputs/prediction_probabilities.png)
+- 🌡️ [Symptom Heatmap](outputs/symptom_heatmap.png)
+
 This Disease Prediction System demonstrates how machine learning can meaningfully support healthcare diagnostics. By combining patient symptoms with clinical parameters and engineered risk features, the Random Forest model achieves strong multi-class prediction accuracy across 8 distinct diseases.
 
 The system is designed to be a practical decision-support tool — not a replacement for doctors, but a fast, data-driven assistant that helps prioritize cases and flag high-risk patients early.
