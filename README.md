@@ -266,25 +266,52 @@ disease-prediction/
 
 # 📊 Project Outputs
 
+This section contains visualizations and results generated from the project.
 
 ## 🔍 Visualizations
 
-- 📈 [Age Analysis](outputs/age_analysis.png)
-- 🏥 [Clinical Metrics](outputs/clinical_metrics.png)
-- 🔢 [Confusion Matrices](outputs/confusion_matrices.png)
-- 🔗 [Correlation Heatmap](outputs/correlation.png)
-- 🔄 [Cross Validation](outputs/cross_validation.png)
-- 🦠 [Disease Distribution](outputs/disease_distribution.png)
-- ⭐ [Feature Importance](outputs/feature_importance.png)
-- 📊 [Final Dashboard](outputs/final_dashboard.png)
-- 🚻 [Gender Risk Analysis](outputs/gender_risk.png)
+### 📈 Age Analysis
+![Age Analysis](outputs/age_analysis.png)
+
+### 🏥 Clinical Metrics
+![Clinical Metrics](outputs/clinical_metrics.png)
+
+### 🔢 Confusion Matrices
+![Confusion Matrices](outputs/confusion_matrices.png)
+
+### 🔗 Correlation Heatmap
+![Correlation](outputs/correlation.png)
+
+### 🔄 Cross Validation
+![Cross Validation](outputs/cross_validation.png)
+
+### 🦠 Disease Distribution
+![Disease Distribution](outputs/disease_distribution.png)
+
+### ⭐ Feature Importance
+![Feature Importance](outputs/feature_importance.png)
+
+### 📊 Final Dashboard
+![Final Dashboard](outputs/final_dashboard.png)
+
+### 🚻 Gender Risk Analysis
+![Gender Risk](outputs/gender_risk.png)
+
+---
 
 ## ⚙️ Model Evaluation
 
-- ❌ [Missing Values](outputs/missing_values.png)
-- 📊 [Model Comparison](outputs/model_comparison.png)
-- 🔮 [Prediction Probabilities](outputs/prediction_probabilities.png)
-- 🌡️ [Symptom Heatmap](outputs/symptom_heatmap.png)
+### ❌ Missing Values
+![Missing Values](outputs/missing_values.png)
+
+### 📊 Model Comparison
+![Model Comparison](outputs/model_comparison.png)
+
+### 🔮 Prediction Probabilities
+![Prediction Probabilities](outputs/prediction_probabilities.png)
+
+### 🌡️ Symptom Heatmap
+![Symptom Heatmap](outputs/symptom_heatmap.png)
 
 This Disease Prediction System demonstrates how machine learning can meaningfully support healthcare diagnostics. By combining patient symptoms with clinical parameters and engineered risk features, the Random Forest model achieves strong multi-class prediction accuracy across 8 distinct diseases.
 
